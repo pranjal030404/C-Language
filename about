@@ -8,3 +8,8 @@ Linux, Unix, etc C is a fast language
                                     space sequence
 \n = Newline
 \t = tab
+%d = for int
+%c = character
+%f = for float
+%lf = for double
+%d = for boolean
